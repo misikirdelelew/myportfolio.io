@@ -19,7 +19,9 @@ header {
   justify-content: space-between;
   padding: 54px 20px;
   background-color: #fff;
-  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+
 }
 
 .my-logo {
@@ -33,7 +35,7 @@ header {
 
 .headline {
   background-color: #fff;
-  background-image: url(/images/mobile-version-bg.png);
+  background-image: url(../images/mobile-version-bg.png);
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 0 0 0 82px;

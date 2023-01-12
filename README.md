@@ -1,4 +1,4 @@
-# Portfolio project
+# Hello-World
 <a name="readme-top"></a>
 
 
@@ -26,10 +26,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My portfolio] <a name="about-project"></a>
+# 📖 [Portfolio Mobile -version ] <a name="about-project"></a>
 
 
-**[My portfolio]** Its simple mobile version personal portfllio project which is developed my html,css .
+**[Portfolio Mobile -version]** it isproject at microverse and teaches us how to configure linter and all its dependencies with relation to HTML and CSS specifically.
 
 ## 🛠 Built With <a name="HTML and CSS"></a>
 
