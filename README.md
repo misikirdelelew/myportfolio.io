@@ -1,7 +1,40 @@
-# Hello-World
 <a name="readme-top"></a>
 
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+- FAQ
+
+After you're finished please remove all the comments and instructions!
+-->
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -22,166 +55,40 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio Mobile -version ] <a name="about-project"></a>
+# 📖 [My Portfolio] <a name="about-project"></a>
 
-
-**[Portfolio Mobile -version]** it isproject at microverse and teaches us how to configure linter and all its dependencies with relation to HTML and CSS specifically.
-
-## 🛠 Built With <a name="HTML and CSS"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[A nice heading]**
-- **[Loads very fast]**
-- **[Responsive to different devices]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](#)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-visit my github
-check Hello-Microvese Project repo
-
-### Setup
-
-Clone this repository to your desired folder:
-cd hello-world
-
-
-
-### Install
-
-Install this project with:
-
-
-  cd Hello-world
-
-
-### Usage
-
-To run the project, execute the following command:
-
-sh hello-microverse project
-
-### Run tests
-
-To run tests, run the following command:
-
-
-### Deployment
-
-You can deploy this project using:
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 👥 Authors <a name="authors"></a>
-
-
-
-👤 **Misikir Delelew**
-
-- GitHub: [@misikirdelelw](https://github.com/MishMD)
-- Twitter: [@misikirdelelw](https://twitter.com/misikir-delelew)
-- LinkedIn: [@misikirdelelew](https://linkedin.com/in/misikir-delelew-114a5946)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 🔭 Future Features <a name="future-features"></a>
-
-
-
-- [ ] **[Footer at the bottom]**
-- [ ] **[Logo at the top left]**
-- [ ] **[navigation bar]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-
-
-If you like this project reach me through github and I will be
-very happy to connect with you.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+> This project is about personal portfolio developed based on microverse requirnment.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+> 
 
-
-I would like to thank for microverse team who has prepared the configuration document.
+I would like to thank microverse for giving me these readmeme templete
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
