@@ -136,6 +136,11 @@ header {
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
+  color: #344563;
+}
+
+#marker {
+  color: #c1c7d0;
 }
 
 .title-developer {
@@ -231,6 +236,7 @@ header {
   display: flex;
   align-items: center;
   padding-bottom: 12px;
+  color: #172b4d;
 }
 
 .about-description {
@@ -259,6 +265,7 @@ header {
   display: flex;
   list-style-type: none;
   gap: 19px;
+  align-items: center;
 }
 
 .lang-list {
