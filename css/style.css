@@ -391,18 +391,20 @@ header {
 }
 
 .contact-form button {
+  align-self: flex-start;
+  margin-left: 25px;
+  width: max-content;
+  height: auto;
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 17px;
   line-height: 36px;
-  align-self: flex-start;
-  margin-left: 25px;
-  width: max-content;
-  height: auto;
-  color: #6070ff;
-  background: #fff;
+  color: #6070FF;
+  background-color: #fff;
   border-radius: 8px;
+  width: 150px;
+  height: 50px;
 }
 
 .contact-form input::placeholder,
