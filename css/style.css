@@ -362,7 +362,7 @@ header {
 }
 
 .form-article img {
-  margin: 32px 121px 8px 121px;
+  margin: 30px 121px 8px 121px;
 }
 
 .contact-form {
@@ -388,6 +388,11 @@ header {
   height: 170px;
   border-radius: 8px;
   margin-bottom: 22px;
+  border: 1px solid #dfd8dc;
+}
+
+.contact-form textarea {
+  padding-top: 16px;
 }
 
 .contact-form button {
@@ -401,8 +406,8 @@ header {
   color: #6070ff;
   background-color: #fff;
   border-radius: 8px;
-  width: 150px;
-  height: 50px;
+  width: 140px;
+  height: 48px;
 }
 
 .contact-form input::placeholder,
@@ -411,15 +416,11 @@ header {
 }
 
 .contact-form button:hover {
-  background-color: #817dfa;
+  background-color: #adabf4;
   color: #fff;
 }
 
 .contact-form button:active {
-  background-color: #3832fa;
+  background-color: #5a55f6;
   color: #fff;
-}
-
-.contact-form textarea {
-  padding-top: 16px;
 }
