@@ -34,6 +34,10 @@ header {
   text-decoration: none;
 }
 
+.main-container {
+  overflow: hidden;
+}
+
 .headline {
   background-color: #fff;
   background-image: url(../images/mobile-version-bg.png);
@@ -325,11 +329,10 @@ header {
 }
 
 .contact-container {
-  background: url(../images/contact-form-bg.svg) no-repeat 100% 100%;
+  background: #6070ff url(../images/contact-form-bg.svg) no-repeat 100% 100%;
   height: max-content;
   width: 100%;
   border-top-left-radius: 80px;
-  background-color: #6070ff;
 }
 
 .contact-container-sub {
