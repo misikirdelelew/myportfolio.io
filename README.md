@@ -37,7 +37,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> The tech uesd in this project is
+> The technology uesd in this project is
 
 <details>
   <summary>Client</summary>
