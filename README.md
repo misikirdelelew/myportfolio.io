@@ -1,38 +1,5 @@
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+ <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-
-  
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -60,33 +27,95 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My Portfolio] <a name="about-project"></a>
+# 📖 portfolio-setup-and-mobile-first <a name="about-project"></a>
 
-> This project is about personal portfolio developed based on microverse requirnment.
+>  This is a Website Mobile First Project which is developed with microverse requirnment and figma design.
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+**portfolio-setup-and-mobile-first** is a...
 
-> 
+## 🛠 Built With <a name="built-with"></a>
 
-I would like to thank microverse for giving me these readmeme templete
+### Tech Stack <a name="tech-stack"></a>
+
+> The technology uesd in this project is
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML & CSS</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Still working on its features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
+## 💻 Getting Started <a name="getting-started"></a>
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+> Anyone who wants to work on this project just simple clone to your local machine. this project has been acessed online just for learning propose.
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+To get a local copy up and running, follow these steps.
 
-- **[Question_1]**
+### Prerequisites
 
-  - [Answer_1]
+In order to run this project you need:
 
-- **[Question_2]**
+### Setup
 
-  - [Answer_2]
+Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Misikir delelw mulate**
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Mohammad Mohsen Haidari**
+
+- GitHub: [@github/MishMD](https://github.com/MishMD)
+- Twitter: [@misikirdelelw](https://twitter.com/misikir.delelew)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/misikir-delelew-114a5946)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> features that will be added to the project.
+
+- [ ] **Hero section**
+- [ ] **Navbar**
+- [ ] **featured-in-section**
+- [ ] **Live-demos of projects**
+- [ ] **about-myself**
+- [ ] **contact-form**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> If you like this project... Leave a star on its repository and make me happy 😊
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
 
 <!-- LICENSE -->
 
