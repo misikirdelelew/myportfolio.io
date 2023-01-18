@@ -75,7 +75,7 @@ Clone this repository to your desired folder:
 
 > Mention all of the collaborators of this project.
 
-👤 **Misikir delelw mulat**
+👤 **Misikir delelw mulate**
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
