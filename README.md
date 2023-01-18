@@ -1,4 +1,5 @@
-
+ <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -84,9 +85,9 @@ Clone this repository to your desired folder:
 
 👤 **Mohammad Mohsen Haidari**
 
-- GitHub: [@github/MMhaidari](https://github.com/MishMD)
-- Twitter: [@twitterMMhaidari12](https://twitter.com/misikir.delelew)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/misikir-delelew-114a5946)
+- GitHub: [@github/MishMD](https://github.com/MishMD)
+- Twitter: [@misikirdelelw](https://twitter.com/misikir.delelew)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/misikir-delelew-114a5946)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
