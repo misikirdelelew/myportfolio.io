@@ -34,6 +34,12 @@ header {
   text-decoration: none;
 }
 
+.menu {
+  width: 24px;
+  height: 24px;
+  color: #8161cc;
+}
+
 .main-container {
   overflow: hidden;
 }
@@ -107,9 +113,10 @@ header {
   width: 329px;
   height: 555px;
   background-color: #fff;
-  border: 1px solid #dfe1e6;
+  border: 3px solid #dfe1e6;
   border-radius: 16px;
   padding: 16px;
+  box-shadow: 0 0 0.5px 0.25px inset #c8c6c6;
 }
 
 .card-section-text {
@@ -252,6 +259,14 @@ header {
   font-size: 16px;
   line-height: 24px;
   color: #344563;
+}
+
+.tonic-img-desktop {
+  display: none;
+}
+
+.tonic-img-mobile {
+  display: none;
 }
 
 .connect-link1 {
@@ -435,4 +450,197 @@ header {
 .contact-form button:active {
   background-color: #6a65fc;
   color: #fff;
+}
+
+@media screen and (min-width: 768px) {
+  header {
+    width: 100%;
+    height: 4.5em;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .my-logo {
+    width: 76px;
+    height: 20px;
+    font-style: normal;
+    margin-left: 155px;
+    transition: all 1s;
+  }
+
+  .menu {
+    width: 259px;
+    height: 40px;
+    text-align: center;
+    margin-right: 154px;
+  }
+
+  .hamberger-menu {
+    display: none;
+  }
+
+  .desktop-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 36px;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  ul > li > #porfolio,
+  #about,
+  #contact {
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    width: auto;
+    height: 20px;
+    color: #344563;
+    transition: all 1s;
+  }
+
+  .headline {
+    background: #fff url(../images/header-bg-desktop.svg) no-repeat 100% 20%;
+    width: 100%;
+    height: 57.25em;
+    align-items: flex-start;
+    padding: 290px 260px 289px 260px;
+  }
+
+  .headline-title {
+    font-size: 48px;
+  }
+
+  .card {
+    justify-items: center;
+    margin: 142px;
+    gap: 142px;
+  }
+
+  .card-section {
+    width: fit-content;
+    height: max-content;
+    flex-direction: row;
+    justify-content: center;
+    gap: 24px;
+    padding-top: 24px;
+    border: 3px solid #dfe1e6;
+    border-radius: 16px;
+    box-shadow: 0 0 0.5px 0.25px inset #c8c6c6;
+  }
+
+  .work-section-texts {
+    height: auto;
+    padding: 24px;
+    gap: 24px;
+  }
+
+  #reverce {
+    flex-direction: row-reverse;
+  }
+
+  .heading-title {
+    width: 496px;
+    font-size: 40px;
+    line-height: 52px;
+    color: #091e42;
+  }
+
+  .desciption-p-mobile {
+    width: 450px;
+    height: auto;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .btn-see-project {
+    height: auto;
+    line-height: 36px;
+    width: max-content;
+  }
+
+  .btn-see-project:hover {
+    border: 1px solid #ebebff;
+    background: #6070ff;
+    color: white;
+  }
+
+  .card-sub-container {
+    gap: 25px;
+  }
+
+  .title-canopy {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+  }
+
+  .title-developer {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .title-year {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .about-section {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: auto;
+    padding: 142px;
+    align-items: baseline;
+  }
+
+  .contact-container {
+    width: 100%;
+    height: 52.875em;
+    background: #6070ff url(../images/contact-bg-form-desktop.svg) no-repeat 65% 65%;
+  }
+
+  .contact-container-sub {
+    padding-top: 70px;
+  }
+
+  .tonic-img-mobile {
+    display: none;
+  }
+
+  .tonic-img-desktop {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .desktop-menu-item {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 44px;
+    color: #fff;
+    position: absolute;
+  }
+
+  #porfolio {
+    margin-top: 106px;
+    text-decoration: none;
+    margin-left: 24px;
+  }
+
+  ul {
+    list-style-type: none;
+  }
 }
