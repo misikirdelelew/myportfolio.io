@@ -1,5 +1,4 @@
- <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -59,6 +58,7 @@
 > Anyone who wants to work on this project just simple clone to your local machine. this project has been acessed online just for learning propose.
 
 To get a local copy up and running, follow these steps.
+Go to git https://github.com/MishDM/My-Portfolio  and clone My-portfolio repository to your local machine and run the index.html
 
 ### Prerequisites
 
@@ -76,7 +76,7 @@ Clone this repository to your desired folder:
 
 > Mention all of the collaborators of this project.
 
-👤 **Misikir delelw mulate**
+👤 **Misikir Delelew Mulate**
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -107,6 +107,13 @@ Clone this repository to your desired folder:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -114,7 +121,15 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+<!-- > Give credit to everyone who inspired your codebase. -->
+
+I would like to thank microverse  🙂
+<!-- I would like to thank... -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- LICENSE -->
@@ -123,6 +138,6 @@ Clone this repository to your desired folder:
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<!--_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
