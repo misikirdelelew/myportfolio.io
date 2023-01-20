@@ -663,6 +663,12 @@ header {
     color: #344563;
     transition: all 1s;
   }
+
+  .card-section-text {
+    height: auto;
+    padding: 24px;
+    gap: 24px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -687,6 +693,10 @@ header {
   }
 
   .tonic-img-desktop {
+    display: none;
+  }
+
+  .desktop-menu {
     display: none;
   }
 }
