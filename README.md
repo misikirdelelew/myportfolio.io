@@ -28,7 +28,7 @@
 
 # 📖 portfolio-setup-and-mobile-first <a name="about-project"></a>
 
->  This is a Website Mobile First Project which is developed with microverse requirnment and figma design.
+>  This is a Website Mobile First Project(portfolio) which is developed with microverse requirnment and figma design.
 
 **portfolio-setup-and-mobile-first** is a...
 
