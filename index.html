@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>portfolio</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 
@@ -17,15 +18,16 @@
         </div>
         <nav class="menu">
             <a href="#"> <img src="./images/Union.png" alt="menu-icon" class="hamberger-menu"></a>
+            <i class="fa fa-close" id="close"></i>
             <ul class="desktop-menu">
-                <li><a href="" class="desktop-menu-item" id="Porfolio">Portfolio</a></li>
-                <li><a href="" class="desktop-menu-item" id="About">About</a></li>
-                <li><a href="" class="desktop-menu-item" id="Contact">Contact</a></li>
+                <li><a href="#headlinesec" class="desktop-menu-item" id="portfolio">Portfolio</a></li>
+                <li><a href="#aboutsection" class="desktop-menu-item" id="about">About</a></li>
+                <li><a href="#contactsection" class="desktop-menu-item" id="contact">Contact</a></li>
             </ul>
         </nav>
     </header>
     <main class="main-container">
-        <section class="headline">
+        <section id='headlinesec' class="headline">
             <h1 class="headline-title">I'm Misikir<br> Glad to see you!</h1>
             <p class="headline-description">I’m a software developer! I can help you build a product , feature or
                 website Look
@@ -199,7 +201,7 @@
                 </article>
             </article>
         </section>
-        <section class="about-section">
+        <section id='aboutsection' class="about-section">
             <article class="about-section-inside">
                 <h2 class="about-heading">
                     About
@@ -255,7 +257,7 @@
                 </ul>
             </div>
         </section>
-        <section class="contact-container">
+        <section id='contactsection' class="contact-container">
             <div class="contact-container-sub">
                 <h2 class="contact-h2">Contact me</h2>
                 <p class="contact-info">If you have an application you are interested in developing, a feature
@@ -274,5 +276,6 @@
         </section>
     </main>
 </body>
+<script src="App.js"></script>
 
 </html>
