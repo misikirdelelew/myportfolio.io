@@ -719,7 +719,7 @@ header {
     opacity: 0;
     visibility: hidden;
     pointer-events: none;
-    background: #6070FF;
+    background: #6070ff;
     mix-blend-mode: multiply;
   }
 
