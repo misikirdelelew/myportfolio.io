@@ -86,13 +86,6 @@ Clone this repository to your desired folder:
 > Mention all of the collaborators of this project.
 
 👤 **Misikir Delelew Mulate**
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Mohammad Mohsen Haidari**
 
 - GitHub: [@github/MishMD](https://github.com/MishMD)
 - Twitter: [@misikirdelelw](https://twitter.com/misikir.delelew)
