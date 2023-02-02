@@ -1,152 +1,46 @@
+# Portfolio: setup and mobile version skeleton
+
+    This is a portfolio web page fully responsive for mobile & tablets & desktops
+## live version
+   -[Live_Demo](https://mov305.github.io/P1-portofolio/)    
+
+## Built With
+
+    CSS
+    HTML5
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+1- Download the zip file or clone it via git
+2- Navigate to the location of the folder in your machine:
+**``you@your-Pc-name:~$ cd <folder>``**
+3- after you get the project to your local machine open the index.html file or simply run the live server
+4- to Check for linters run (npx hint .) for html code fixed and npx stylelint "**/*.{css,scss}"
 
 
-<!-- TABLE OF CONTENTS -->
+## Author
 
-# 📗 Table of Contents
+👤 **Abdelrhman Samy**
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- Github: [@Mov305](https://github.com/Mov305)
+- Twitter: [@Mov_abd](https://twitter.com/Mov_abd)
+- LinkedIn: [Abdelrhman Samy](https://www.linkedin.com/in/abdelrhman-samy-80b14b215/)
 
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 portfolio-setup-and-mobile-first <a name="about-project"></a>
-
->  This is a Website Mobile First Project(portfolio) which is developed with microverse requirnment and figma design.
-
-**portfolio-setup-and-mobile-first** is a...
-
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-> The technology uesd in this project is
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">HTML & CSS</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://mishdm.github.io/myportfolio.io/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Key Features <a name="key-features"></a>
-
-> Still working on its features
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Anyone who wants to work on this project just simple clone to your local machine. this project has been acessed online just for learning propose.
-
-To get a local copy up and running, follow these steps.
-Go to git https://github.com/MishDM/My-Portfolio  and clone My-portfolio repository to your local machine and run the index.html
-
-### Prerequisites
-
-In order to run this project you need:
-
-### Setup
-
-Clone this repository to your desired folder:
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Misikir Delelew Mulate**
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Mohammad Mohsen Haidari**
-
-- GitHub: [@github/MishMD](https://github.com/MishMD)
-- Twitter: [@misikirdelelw](https://twitter.com/misikir.delelew)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/misikir-delelew-114a5946)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> features that will be added to the project.
-
-- [ ] **Hero section**
-- [ ] **Navbar**
-- [ ] **featured-in-section**
-- [ ] **Live-demos of projects**
-- [ ] **about-myself**
-- [ ] **contact-form**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-## 🤝 Contributing <a name="contributing"></a>
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page.](https://github.com/Mov305/P1-portofolio/issues)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Show your support
 
-## ⭐️ Show your support <a name="support"></a>
+Give a ⭐️ if you like this project and how we manage to build it!
 
-> If you like this project... Leave a star on its repository and make me happy 😊
+## Acknowledgments
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Template from this [Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1) by [Microverse](https://bit.ly/MicroverseTN)
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 📝 License
 
-<!-- > Give credit to everyone who inspired your codebase. -->
-
-I would like to thank microverse  🙂
-<!-- I would like to thank... -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<!--_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._-->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md) licensed
