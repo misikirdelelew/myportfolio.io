@@ -8,6 +8,6 @@ submit.addEventListener('click', (event) => {
   if (value !== loweredValue) {
     event.preventDefault();
     messag.style.color = '#d8000c';
-    messag.innerHTML = 'Email should be written in lowercase letters.';
+    messag.innerHTML = 'Please write your email in Lowercase letters.';
   }
 });
