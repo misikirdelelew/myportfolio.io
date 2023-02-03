@@ -9,6 +9,6 @@ form.addEventListener('input', () => {
 // get values from local storage
 inputName.value = localStorage.getItem('Name');
 email.value = localStorage.getItem('Email');
-/*localStorage.setItem('Name', `${inputName.value}`);
+localStorage.setItem('Name', `${inputName.value}`);
 localStorage.setItem('Email', `${email.value}`);
-localStorage.setItem('TextArea', `${textarea.value}`);*/
+localStorage.setItem('TextArea', `${textarea.value}`);
