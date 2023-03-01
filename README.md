@@ -52,7 +52,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://mishdm.github.io/myportfolio.io/)
+- [Live Demo Link](https://misikirdelelew.github.io/myportfolio.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +67,7 @@
 > Anyone who wants to work on this project just simple clone to your local machine. this project has been acessed online just for learning propose.
 
 To get a local copy up and running, follow these steps.
-Go to git https://github.com/MishDM/My-Portfolio  and clone My-portfolio repository to your local machine and run the index.html
+Go to git https://github.com/misikirdelelew/My-Portfolio  and clone My-portfolio repository to your local machine and run the index.html
 
 ### Prerequisites
 
@@ -87,7 +87,7 @@ Clone this repository to your desired folder:
 
 👤 **Misikir Delelew Mulate**
 
-- GitHub: [@github/MishMD](https://github.com/MishMD)
+- GitHub: [@github/misikirdelelew](https://github.com/misikirdelelew)
 - Twitter: [@misikirdelelw](https://twitter.com/misikir.delelew)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/misikir-delelew-114a5946)
 
